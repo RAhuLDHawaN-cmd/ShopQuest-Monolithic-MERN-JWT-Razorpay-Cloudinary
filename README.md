@@ -1,7 +1,7 @@
 <div align="center">
   <img src="frontend/public/ShopQuest.jpeg" alt="ShopQuest Logo" width="80" />
 
-  <h1>ShopQuest Monolithic Mern WebApp</h1>
+  <h1>ShopQuest: Monolithic Mern WebApp</h1>
 
   <p> Sales, Inventory, Delivery Management Tool </p>
 </div>
