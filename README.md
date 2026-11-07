@@ -28,7 +28,7 @@ Make sure you have MongoDB running locally, or map it to a remote database strin
 
 Inside the `backend/` folder, ensure your `.env` looks like this:
 ```env
-PORT=5000
+PORT=5001
 NODE_ENV=development
 MONGO_URI=mongodb://127.0.0.1:27017/shopquest
 JWT_SECRET=super_secret_key
